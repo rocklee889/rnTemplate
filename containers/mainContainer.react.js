@@ -5,7 +5,7 @@ import { observer } from 'mobx-react';
 import main from '../stores/main.store';
 
 @observer
-export default class Main extends Component {
+export default class MainContainer extends Component {
 
     componentWillReact() {
         console.log("I will re-render, since the todo has changed!");
