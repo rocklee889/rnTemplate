@@ -5,7 +5,8 @@ const Config = {
   URL: 'https://www.test.pajkdc.com/evaluation/',
   BACON_URL: 'https://beacon.test.pajkdc.com/js/beacon.js',
   SHARE_URL: 'https://www.test.pajkdc.com/evaluate/',
-  HEALTH_CIRCLE_URL: 'https://www.test.pajkdc.com/health-circle/index.html'
+  HEALTH_CIRCLE_URL: 'https://www.test.pajkdc.com/health-circle/index.html',
+  TEST_URL: 'https://www.baidu.com/'
 };
 
 module.exports = Config;
